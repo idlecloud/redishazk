@@ -1,0 +1,27 @@
+{
+	"ImportPath": "redis_ha",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/cihub/seelog",
+			"Comment": "go1.1-83-g5841159",
+			"Rev": "5841159c495ad98691aac2bf90113c040e62bac2"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/internal",
+			"Rev": "3d0709611e0e29c05a4e925e8447b065abb4eef6"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/redis",
+			"Rev": "3d0709611e0e29c05a4e925e8447b065abb4eef6"
+		},
+		{
+			"ImportPath": "github.com/larspensjo/config",
+			"Rev": "822c6fa1586612416e452b42587bdabf4e36055e"
+		},
+		{
+			"ImportPath": "github.com/samuel/go-zookeeper/zk",
+			"Rev": "913027ed60abbe2436b35cf960193b06b00105cf"
+		}
+	]
+}

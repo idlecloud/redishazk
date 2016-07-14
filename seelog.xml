@@ -1,0 +1,9 @@
+<seelog>
+  <outputs formatid="main">
+    <file path="/data/logs/log_system/redis_ha.log" /> 
+  </outputs>
+
+  <formats>
+    <format id="main" format="%Date/%Time [%LEV:%File:%Line] %Msg%n"/>
+  </formats>
+</seelog>
